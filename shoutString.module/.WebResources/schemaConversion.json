@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/shoutString.module/Service Descriptors/shoutstring.module.Process-Resource.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1485859406830"
+}]}
